@@ -22,3 +22,8 @@ Probably Chromium won't open up, or at least no browser UI.
     await page.waitForTimeout(500);
     page.click('header > img');
 } `
+
+## Screenshots of tests
+![sum test](sum-jest.png)
+![router test](router-jest.png)
+![lab8 test](lab8-jest.png)
